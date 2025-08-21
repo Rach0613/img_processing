@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a **Graphical User Interface (GUI)** in MATLAB to demonstrate essential image processing techniques. Users can load images, apply filters, visualize transformations, and even capture live video for real-time edge detection. The GUI integrates MATLAB Image Processing Toolbox functions for an interactive and educational experience.
+This project provides a **Graphical User Interface (GUI)** in MATLAB to demonstrate essential image processing techniques. Users can load images, apply filters, visualize transformations, and even capture live video for real-time edge detection. The GUI integrates MATLAB Image Processing Toolbox functions for an interactive and experience.
 
 ---
 ## Features
@@ -19,6 +19,7 @@ The GUI supports the following functions:
 8. **Hough Transform** – Detect straight lines in images.
 9. **Pattern Matching** – Locate patterns using cross-correlation.
 10. **Camera Integration** – Capture live video and perform **Canny line detection**.
+11. **Circle Detection using Hough Transform** – Edge detection
 
 ---
 ## Screenshot

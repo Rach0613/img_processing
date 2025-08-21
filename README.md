@@ -1,11 +1,11 @@
-# 🎨Image Processing using Computer Vision Techniques
+# Image Processing using Computer Vision Techniques
 
-## 📌 Overview
+## Overview
 
 This project provides a **Graphical User Interface (GUI)** in MATLAB to demonstrate essential image processing techniques. Users can load images, apply filters, visualize transformations, and even capture live video for real-time edge detection. The GUI integrates MATLAB Image Processing Toolbox functions for an interactive and educational experience.
 
 ---
-## 🚀 Features
+## Features
 
 The GUI supports the following functions:
 
@@ -21,5 +21,5 @@ The GUI supports the following functions:
 10. **Camera Integration** – Capture live video and perform **Canny line detection**.
 
 ---
-## 🖼️ Screenshot
+## Screenshot
 <img width="1085" height="471" alt="GUI for comp_vision" src="https://github.com/user-attachments/assets/9de2638a-68f7-4806-b31b-f82c9a43f610" />

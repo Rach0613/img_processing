@@ -22,5 +22,7 @@ The GUI supports the following functions:
 11. **Circle Detection using Hough Transform** – Edge detection
 
 ---
-## Screenshot
+## Screenshots
 <img width="1085" height="471" alt="GUI for comp_vision" src="https://github.com/user-attachments/assets/9de2638a-68f7-4806-b31b-f82c9a43f610" />
+
+<img width="697" height="618" alt="Circle_detection" src="https://github.com/user-attachments/assets/e9809613-1b1e-4764-8534-cdc3e165a04e" />
